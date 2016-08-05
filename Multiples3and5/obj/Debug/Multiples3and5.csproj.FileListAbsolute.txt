@@ -1,0 +1,6 @@
+c:\dev\ProjectEuler\Multiples3and5\bin\Debug\Multiples3and5.exe.config
+c:\dev\ProjectEuler\Multiples3and5\bin\Debug\Multiples3and5.exe
+c:\dev\ProjectEuler\Multiples3and5\bin\Debug\Multiples3and5.pdb
+c:\dev\ProjectEuler\Multiples3and5\obj\Debug\Multiples3and5.csprojResolveAssemblyReference.cache
+c:\dev\ProjectEuler\Multiples3and5\obj\Debug\Multiples3and5.exe
+c:\dev\ProjectEuler\Multiples3and5\obj\Debug\Multiples3and5.pdb
